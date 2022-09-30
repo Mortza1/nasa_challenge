@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "542825936824",
+    "project_id": "nasa-space-67a2c",
+    "storage_bucket": "nasa-space-67a2c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:542825936824:android:aee4faa75270c836ef014d",
+        "android_client_info": {
+          "package_name": "com.example.nasa_murtaza"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "542825936824-omlmm553gde61lekkb3a2nh3a0u9tjag.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGCKfX9MOFJ1T16EBH5OHuHtQnTsD6ErA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "542825936824-omlmm553gde61lekkb3a2nh3a0u9tjag.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
